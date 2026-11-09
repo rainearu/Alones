@@ -1,0 +1,43 @@
+{
+  "id": "demo-rin",
+  "name": "Рин",
+  "raceId": "tii",
+  "subraceId": "tii_kroner",
+  "portrait": "tii_kroner",
+  "attributeInvestments": {
+    "dex": 1
+  },
+  "skillInvestments": {
+    "skill_06": 2,
+    "skill_07": 2,
+    "skill_10": 1,
+    "skill_12": 1,
+    "blades": 1
+  },
+  "orderIds": [
+    "seeker",
+    "shadow"
+  ],
+  "startingCurrency": 30,
+  "currentCurrency": 30,
+  "inventory": [
+    {
+      "instanceId": "rin-basic-kit",
+      "customItem": {
+        "name": "Стартовый набор",
+        "description": "Одежда, обувь и браслет"
+      },
+      "quantity": 1,
+      "acquisitionType": "starting",
+      "purchasePrice": 0,
+      "equipped": true
+    }
+  ],
+  "healthCurrent": 30,
+  "moraleCurrent": 4,
+  "notes": "Ищет безопасную дорогу через заросшие руины.",
+  "schemaVersion": 1,
+  "contentVersion": "2026-11-09-mvp-1",
+  "attributeAdjustments": {},
+  "skillAdjustments": {}
+}

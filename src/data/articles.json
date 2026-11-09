@@ -1,0 +1,57 @@
+{
+ "contentVersion": "2026-11-09-mvp-1",
+ "lore": [
+  {
+   "id": "lore_history",
+   "title": "История и эпохи",
+   "body": ""
+  },
+  {
+   "id": "lore_peoples",
+   "title": "Народы Элонии",
+   "body": ""
+  },
+  {
+   "id": "lore_orders",
+   "title": "Ордена",
+   "body": ""
+  },
+  {
+   "id": "lore_regions",
+   "title": "Регионы",
+   "body": ""
+  }
+ ],
+ "rulebook": [
+  {
+   "id": "rules_creation",
+   "title": "Создание персонажа",
+   "body": ""
+  },
+  {
+   "id": "rules_attributes",
+   "title": "Характеристики и навыки",
+   "body": ""
+  },
+  {
+   "id": "rules_resources",
+   "title": "Здоровье и мораль",
+   "body": ""
+  },
+  {
+   "id": "rules_defense",
+   "title": "Защита и попадание",
+   "body": ""
+  },
+  {
+   "id": "rules_weapons",
+   "title": "Оружие и урон",
+   "body": ""
+  },
+  {
+   "id": "rules_growth",
+   "title": "Развитие персонажа",
+   "body": ""
+  }
+ ]
+}

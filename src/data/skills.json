@@ -1,0 +1,352 @@
+[
+ {
+  "id": "skill_01",
+  "name": "Атлетика",
+  "attribute": "str",
+  "description": "Преодолеть препятствие силой.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_02",
+  "name": "Бег",
+  "attribute": "str",
+  "description": "Быстро преодолеть расстояние.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_03",
+  "name": "Лазанье",
+  "attribute": "str",
+  "description": "Подняться по сложной поверхности.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_04",
+  "name": "Плавание",
+  "attribute": "str",
+  "description": "Двигаться и действовать в воде.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_05",
+  "name": "Выносливость",
+  "attribute": "str",
+  "description": "Перенести длительную нагрузку.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_06",
+  "name": "Акробатика",
+  "attribute": "dex",
+  "description": "Выполнить сложный манёвр телом.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_07",
+  "name": "Скрытность",
+  "attribute": "dex",
+  "description": "Остаться незамеченным.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_08",
+  "name": "Ловкость рук",
+  "attribute": "dex",
+  "description": "Незаметно манипулировать предметом.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_09",
+  "name": "Баланс",
+  "attribute": "dex",
+  "description": "Удержать равновесие.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_10",
+  "name": "Реакция",
+  "attribute": "dex",
+  "description": "Вовремя ответить на опасность.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_11",
+  "name": "Амбидекстр",
+  "attribute": "dex",
+  "description": "Согласованно действовать обеими руками.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_12",
+  "name": "Зоркость",
+  "attribute": "per",
+  "description": "Разглядеть далёкую или мелкую деталь.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_13",
+  "name": "Чтение следов",
+  "attribute": "per",
+  "description": "Понять оставленные следы.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_14",
+  "name": "Поиск",
+  "attribute": "per",
+  "description": "Найти скрытый предмет или проход.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_15",
+  "name": "Слух",
+  "attribute": "per",
+  "description": "Различить тихие звуки.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_16",
+  "name": "Обоняние",
+  "attribute": "per",
+  "description": "Распознать запах.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_17",
+  "name": "Наблюдательность",
+  "attribute": "per",
+  "description": "Заметить изменение в обстановке.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_18",
+  "name": "Музыкальные инструменты",
+  "attribute": "per",
+  "description": "Исполнить музыку на инструменте.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_19",
+  "name": "Эстетика",
+  "attribute": "per",
+  "description": "Оценить выразительность и форму.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_20",
+  "name": "История",
+  "attribute": "int",
+  "description": "Вспомнить сведения о прошлом.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_21",
+  "name": "Анализ",
+  "attribute": "int",
+  "description": "Сопоставить факты и сделать вывод.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_22",
+  "name": "Медицина",
+  "attribute": "int",
+  "description": "Оценить состояние организма и оказать помощь.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_23",
+  "name": "Алхимия",
+  "attribute": "int",
+  "description": "Работать с алхимическими составами.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_24",
+  "name": "Механика",
+  "attribute": "int",
+  "description": "Разобраться в механизме.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_25",
+  "name": "Химия",
+  "attribute": "int",
+  "description": "Исследовать вещества и реакции.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_26",
+  "name": "Хакерство",
+  "attribute": "int",
+  "description": "Взаимодействовать с цифровой защитой.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_27",
+  "name": "Инженерия",
+  "attribute": "int",
+  "description": "Проектировать и чинить конструкции.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_28",
+  "name": "Электроника",
+  "attribute": "int",
+  "description": "Работать с электрическими устройствами.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_29",
+  "name": "Убеждение",
+  "attribute": "cha",
+  "description": "Добиться согласия доводами.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_30",
+  "name": "Обман",
+  "attribute": "cha",
+  "description": "Создать ложное представление.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_31",
+  "name": "Запугивание",
+  "attribute": "cha",
+  "description": "Повлиять угрозой.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_32",
+  "name": "Эмпатия",
+  "attribute": "cha",
+  "description": "Понять чувства собеседника.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_33",
+  "name": "Дипломатия",
+  "attribute": "cha",
+  "description": "Найти приемлемое для сторон решение.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_34",
+  "name": "Выступление",
+  "attribute": "cha",
+  "description": "Завладеть вниманием публики.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_35",
+  "name": "Стойкость духа",
+  "attribute": "spi",
+  "description": "Выдержать ментальное давление.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_36",
+  "name": "Медитация",
+  "attribute": "spi",
+  "description": "Сосредоточиться на внутреннем состоянии.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_37",
+  "name": "Воля",
+  "attribute": "spi",
+  "description": "Следовать решению вопреки давлению.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_38",
+  "name": "Концентрация",
+  "attribute": "spi",
+  "description": "Удержать внимание на задаче.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_39",
+  "name": "Ритуалы",
+  "attribute": "spi",
+  "description": "Проводить духовные практики.",
+  "kind": "skill"
+ },
+ {
+  "id": "skill_40",
+  "name": "Хладнокровие",
+  "attribute": "spi",
+  "description": "Сохранять самообладание.",
+  "kind": "skill"
+ },
+ {
+  "id": "blades",
+  "name": "Клинковое",
+  "attribute": "dex",
+  "description": "Владение оружием этой категории.",
+  "kind": "proficiency"
+ },
+ {
+  "id": "impact",
+  "name": "Ударное",
+  "attribute": "str",
+  "description": "Владение оружием этой категории.",
+  "kind": "proficiency"
+ },
+ {
+  "id": "polearm",
+  "name": "Древковое",
+  "attribute": "str",
+  "description": "Владение оружием этой категории.",
+  "kind": "proficiency"
+ },
+ {
+  "id": "flexible",
+  "name": "Гибкое",
+  "attribute": "dex",
+  "description": "Владение оружием этой категории.",
+  "kind": "proficiency"
+ },
+ {
+  "id": "thrown",
+  "name": "Метательное",
+  "attribute": "dex",
+  "description": "Владение оружием этой категории.",
+  "kind": "proficiency"
+ },
+ {
+  "id": "bows",
+  "name": "Стрелковое",
+  "attribute": "per",
+  "description": "Владение оружием этой категории.",
+  "kind": "proficiency"
+ },
+ {
+  "id": "firearms",
+  "name": "Огнестрельное",
+  "attribute": "per",
+  "description": "Владение оружием этой категории.",
+  "kind": "proficiency"
+ },
+ {
+  "id": "laser",
+  "name": "Лазерное",
+  "attribute": "per",
+  "description": "Владение оружием этой категории.",
+  "kind": "proficiency"
+ },
+ {
+  "id": "spiritual",
+  "name": "Духовное",
+  "attribute": "spi",
+  "description": "Владение оружием этой категории.",
+  "kind": "proficiency"
+ },
+ {
+  "id": "technology",
+  "name": "Технологическое",
+  "attribute": "int",
+  "description": "Владение оружием этой категории.",
+  "kind": "proficiency"
+ }
+]

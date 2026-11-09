@@ -1,0 +1,162 @@
+[
+ {
+  "id": "melonian",
+  "name": "Мелонианцы",
+  "bonuses": {
+   "cha": 1
+  },
+  "subraces": [
+   "human",
+   "elf",
+   "halfhuman"
+  ],
+  "portrait": "human",
+  "freeBonus": {
+   "count": 1,
+   "exclude": [
+    "cha"
+   ]
+  },
+  "tagline": "",
+  "description": "",
+  "singular": "Мелонианец"
+ },
+ {
+  "id": "launey",
+  "name": "Лауней",
+  "bonuses": {
+   "dex": 1,
+   "per": 1
+  },
+  "subraces": [
+   "launey_tails",
+   "launey_paws",
+   "launey_jaws"
+  ],
+  "portrait": "launey_tails",
+  "freeBonus": null,
+  "tagline": "",
+  "description": "",
+  "singular": "Лауней"
+ },
+ {
+  "id": "affasia",
+  "name": "Аффасиа",
+  "bonuses": {
+   "int": 1,
+   "spi": 1
+  },
+  "subraces": [
+   "affasia_wise",
+   "affasia_winged"
+  ],
+  "portrait": "affasia_wise",
+  "freeBonus": null,
+  "tagline": "",
+  "description": "",
+  "singular": "Аффасиа"
+ },
+ {
+  "id": "sinkat",
+  "name": "Синкаты",
+  "bonuses": {
+   "str": 1,
+   "dex": 1
+  },
+  "subraces": [
+   "sinkat_amphibian",
+   "sinkat_aquatic"
+  ],
+  "portrait": "sinkat_amphibian",
+  "freeBonus": null,
+  "tagline": "",
+  "description": "",
+  "singular": "Синкат"
+ },
+ {
+  "id": "tii",
+  "name": "Тии",
+  "bonuses": {
+   "dex": 1,
+   "cha": 1
+  },
+  "subraces": [
+   "tii_kroner",
+   "tii_lowland"
+  ],
+  "portrait": "tii_kroner",
+  "freeBonus": null,
+  "tagline": "Ловкость, находчивость и связь с природой.",
+  "description": "Небольшие и подвижные существа, приспособленные к жизни среди растительности.",
+  "singular": "Тии"
+ },
+ {
+  "id": "vakhi",
+  "name": "Вакхи",
+  "bonuses": {
+   "int": 1,
+   "cha": 1
+  },
+  "subraces": [
+   "vakhi_digger",
+   "vakhi_archmantr"
+  ],
+  "portrait": "vakhi_digger",
+  "freeBonus": null,
+  "tagline": "",
+  "description": "",
+  "singular": "Вакх"
+ },
+ {
+  "id": "zenira",
+  "name": "Зенира",
+  "bonuses": {
+   "per": 1,
+   "spi": 1
+  },
+  "subraces": [
+   "zenira_dry",
+   "zenira_dictant"
+  ],
+  "portrait": "zenira_dry",
+  "freeBonus": null,
+  "tagline": "",
+  "description": "",
+  "singular": "Зенира"
+ },
+ {
+  "id": "shsheni",
+  "name": "Шшенийцы",
+  "bonuses": {
+   "str": 1,
+   "per": 1
+  },
+  "subraces": [
+   "shsheni_two",
+   "shsheni_four"
+  ],
+  "portrait": "shsheni_two",
+  "freeBonus": null,
+  "tagline": "",
+  "description": "",
+  "singular": "Шшениец"
+ },
+ {
+  "id": "enkot",
+  "name": "Энкоты",
+  "bonuses": {
+   "str": 1,
+   "spi": 1
+  },
+  "subraces": [
+   "enkot_leaf",
+   "enkot_poison",
+   "enkot_dryer"
+  ],
+  "portrait": "enkot_leaf",
+  "freeBonus": null,
+  "tagline": "",
+  "description": "",
+  "singular": "Энкот"
+ }
+]

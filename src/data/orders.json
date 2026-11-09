@@ -1,0 +1,74 @@
+[
+ {
+  "id": "shadow",
+  "name": "Тень",
+  "rank": null,
+  "founder": null,
+  "requirementsEnforced": false,
+  "description": "Доступ к Соулеру и связанным с ним техникам определяется условиями ордена. На этом этапе их согласует мастер."
+ },
+ {
+  "id": "technician",
+  "name": "Техник",
+  "rank": null,
+  "founder": null,
+  "requirementsEnforced": false,
+  "description": ""
+ },
+ {
+  "id": "medium",
+  "name": "Медиум",
+  "rank": null,
+  "founder": null,
+  "requirementsEnforced": false,
+  "description": ""
+ },
+ {
+  "id": "seeker",
+  "name": "Искатель",
+  "rank": null,
+  "founder": null,
+  "requirementsEnforced": false,
+  "description": ""
+ },
+ {
+  "id": "bionic",
+  "name": "Бионик",
+  "rank": null,
+  "founder": null,
+  "requirementsEnforced": false,
+  "description": ""
+ },
+ {
+  "id": "guardian",
+  "name": "Страж",
+  "rank": null,
+  "founder": "?",
+  "requirementsEnforced": false,
+  "description": ""
+ },
+ {
+  "id": "judge",
+  "name": "Судья",
+  "rank": null,
+  "founder": null,
+  "requirementsEnforced": false,
+  "description": ""
+ },
+ {
+  "id": "merchant",
+  "name": "Торговец",
+  "rank": null,
+  "founder": null,
+  "requirementsEnforced": false,
+  "description": ""
+ },
+ {
+  "id": "lyric",
+  "name": "Лирик",
+  "rank": null,
+  "founder": null,
+  "requirementsEnforced": false,
+  "description": ""
+ }
+]

@@ -1,0 +1,406 @@
+[
+ {
+  "id": "human",
+  "name": "Люди",
+  "raceId": "melonian",
+  "physicalBase": 7,
+  "mentalBase": 7,
+  "baseValuesStatus": "working_values_require_numeric_check",
+  "portrait": "human",
+  "traits": [
+   {
+    "id": "human_innate",
+    "name": "Врождённые свойства",
+    "text": "Отдельные врождённые способности пока не закреплены.",
+    "automaticEffect": null,
+    "placeholder": true
+   }
+  ],
+  "conditionalNotes": [],
+  "singular": "Человек"
+ },
+ {
+  "id": "elf",
+  "name": "Эльфы",
+  "raceId": "melonian",
+  "physicalBase": 7,
+  "mentalBase": 8,
+  "baseValuesStatus": "working_values_require_numeric_check",
+  "portrait": "elf",
+  "traits": [
+   {
+    "id": "elf_innate",
+    "name": "Врождённые свойства",
+    "text": "Отдельные врождённые способности пока не закреплены.",
+    "automaticEffect": null,
+    "placeholder": true
+   }
+  ],
+  "conditionalNotes": [],
+  "singular": "Эльф"
+ },
+ {
+  "id": "halfhuman",
+  "name": "Полулюди",
+  "raceId": "melonian",
+  "physicalBase": 8,
+  "mentalBase": 7,
+  "baseValuesStatus": "working_values_require_numeric_check",
+  "portrait": "halfhuman",
+  "traits": [
+   {
+    "id": "halfhuman_innate",
+    "name": "Врождённые свойства",
+    "text": "Отдельные врождённые способности пока не закреплены.",
+    "automaticEffect": null,
+    "placeholder": true
+   }
+  ],
+  "conditionalNotes": [],
+  "singular": "Получеловек"
+ },
+ {
+  "id": "launey_tails",
+  "name": "Хвосты",
+  "raceId": "launey",
+  "physicalBase": 9,
+  "mentalBase": 6,
+  "baseValuesStatus": "working_values_require_numeric_check",
+  "portrait": "launey_tails",
+  "traits": [
+   {
+    "id": "launey_tails_innate",
+    "name": "Второй хвост",
+    "text": "Второй хвост удерживает предметы и помогает с перезарядкой; дополнительная атака за 1 ОД.",
+    "automaticEffect": null
+   }
+  ],
+  "conditionalNotes": [],
+  "singular": "Хвост"
+ },
+ {
+  "id": "launey_paws",
+  "name": "Лапы",
+  "raceId": "launey",
+  "physicalBase": 8,
+  "mentalBase": 6,
+  "baseValuesStatus": "working_values_require_numeric_check",
+  "portrait": "launey_paws",
+  "traits": [
+   {
+    "id": "launey_paws_innate",
+    "name": "Усиленные когти",
+    "text": "Усиленные когти; на четырёх конечностях скорость увеличивается на 50%.",
+    "automaticEffect": null
+   }
+  ],
+  "conditionalNotes": [],
+  "singular": "Лапа"
+ },
+ {
+  "id": "launey_jaws",
+  "name": "Челюсти",
+  "raceId": "launey",
+  "physicalBase": 8,
+  "mentalBase": 6,
+  "baseValuesStatus": "working_values_require_numeric_check",
+  "portrait": "launey_jaws",
+  "traits": [
+   {
+    "id": "launey_jaws_innate",
+    "name": "Сильный укус",
+    "text": "Сильный укус помогает разрывать удерживающие материалы. Числовые параметры не заданы.",
+    "automaticEffect": null
+   }
+  ],
+  "conditionalNotes": [],
+  "singular": "Челюсть"
+ },
+ {
+  "id": "affasia_wise",
+  "name": "Разумные",
+  "raceId": "affasia",
+  "physicalBase": 6,
+  "mentalBase": 9,
+  "baseValuesStatus": "working_values_require_numeric_check",
+  "portrait": "affasia_wise",
+  "traits": [
+   {
+    "id": "affasia_wise_innate",
+    "name": "Сопротивление ментальному воздействию",
+    "text": "Сопротивление ментальному воздействию; преимущество при понимании намерений. Порядок применения определяет мастер.",
+    "automaticEffect": null
+   }
+  ],
+  "conditionalNotes": [],
+  "singular": "Разумный"
+ },
+ {
+  "id": "affasia_winged",
+  "name": "Крылатые",
+  "raceId": "affasia",
+  "physicalBase": 8,
+  "mentalBase": 6,
+  "baseValuesStatus": "working_values_require_numeric_check",
+  "portrait": "affasia_winged",
+  "traits": [
+   {
+    "id": "affasia_winged_innate",
+    "name": "Полёт",
+    "text": "Полёт. Новые ограничения скорости, высоты и длительности не вводятся.",
+    "automaticEffect": null
+   }
+  ],
+  "conditionalNotes": [],
+  "singular": "Крылатый"
+ },
+ {
+  "id": "sinkat_amphibian",
+  "name": "Земноводные",
+  "raceId": "sinkat",
+  "physicalBase": 7,
+  "mentalBase": 7,
+  "baseValuesStatus": "working_values_require_numeric_check",
+  "portrait": "sinkat_amphibian",
+  "traits": [
+   {
+    "id": "sinkat_amphibian_innate",
+    "name": "Две среды",
+    "text": "Вода и суша равноценны; нет штрафов за перемещение в воде.",
+    "automaticEffect": null
+   }
+  ],
+  "conditionalNotes": [],
+  "singular": "Земноводный"
+ },
+ {
+  "id": "sinkat_aquatic",
+  "name": "Водоземные",
+  "raceId": "sinkat",
+  "physicalBase": 7,
+  "mentalBase": 6,
+  "baseValuesStatus": "working_values_require_numeric_check",
+  "portrait": "sinkat_aquatic",
+  "traits": [
+   {
+    "id": "sinkat_aquatic_innate",
+    "name": "Водная специализация",
+    "text": "Скорость в воде ×2; движение по суше требует вдвое больше ОД.",
+    "automaticEffect": null
+   }
+  ],
+  "conditionalNotes": [],
+  "singular": "Водоземный"
+ },
+ {
+  "id": "tii_kroner",
+  "name": "Кронеры",
+  "raceId": "tii",
+  "physicalBase": 8,
+  "mentalBase": 6,
+  "baseValuesStatus": "working_values_require_numeric_check",
+  "portrait": "tii_kroner",
+  "traits": [
+   {
+    "id": "tii_kroner_innate",
+    "name": "Дети кроны",
+    "text": "Лазают по деревьям без приспособлений, используют крупную растительность для передвижения, включая подходящие вертикальные поверхности.",
+    "automaticEffect": null
+   }
+  ],
+  "conditionalNotes": [],
+  "singular": "Кронер"
+ },
+ {
+  "id": "tii_lowland",
+  "name": "Низинники",
+  "raceId": "tii",
+  "physicalBase": 7,
+  "mentalBase": 7,
+  "baseValuesStatus": "working_values_require_numeric_check",
+  "portrait": "tii_lowland",
+  "traits": [
+   {
+    "id": "tii_lowland_innate",
+    "name": "Знание растений",
+    "text": "Устойчивость к растительным ядам. Старые враги: +3 к физической СП против шшенийцев, отдельно от постоянной СП.",
+    "automaticEffect": null
+   }
+  ],
+  "conditionalNotes": [
+   "+3 к физической СП против шшенийцев"
+  ],
+  "singular": "Низинник"
+ },
+ {
+  "id": "vakhi_digger",
+  "name": "Рытвенники",
+  "raceId": "vakhi",
+  "physicalBase": 8,
+  "mentalBase": 6,
+  "baseValuesStatus": "working_values_require_numeric_check",
+  "portrait": "vakhi_digger",
+  "traits": [
+   {
+    "id": "vakhi_digger_innate",
+    "name": "Рытьё",
+    "text": "Создают проходы в подходящем грунте. Скорость под землёй — 50% обычной.",
+    "automaticEffect": null
+   }
+  ],
+  "conditionalNotes": [],
+  "singular": "Рытвенник"
+ },
+ {
+  "id": "vakhi_archmantr",
+  "name": "Архмантры",
+  "raceId": "vakhi",
+  "physicalBase": 6,
+  "mentalBase": 9,
+  "baseValuesStatus": "working_values_require_numeric_check",
+  "portrait": "vakhi_archmantr",
+  "traits": [
+   {
+    "id": "vakhi_archmantr_innate",
+    "name": "Чувство конструкции",
+    "text": "Понимают устройство рукотворных объектов. +1к6 к Поиску в рукотворных строениях.",
+    "automaticEffect": null
+   }
+  ],
+  "conditionalNotes": [],
+  "singular": "Архмантр"
+ },
+ {
+  "id": "zenira_dry",
+  "name": "Сухоживы",
+  "raceId": "zenira",
+  "physicalBase": 8,
+  "mentalBase": 7,
+  "baseValuesStatus": "working_values_require_numeric_check",
+  "portrait": "zenira_dry",
+  "traits": [
+   {
+    "id": "zenira_dry_innate",
+    "name": "Выносливость",
+    "text": "Практически независимы от пищи и воды; устойчивы к жаре и лазерному воздействию. Новые числовые сопротивления не вводятся.",
+    "automaticEffect": null
+   }
+  ],
+  "conditionalNotes": [],
+  "singular": "Сухожив"
+ },
+ {
+  "id": "zenira_dictant",
+  "name": "Диктанты",
+  "raceId": "zenira",
+  "physicalBase": 6,
+  "mentalBase": 9,
+  "baseValuesStatus": "working_values_require_numeric_check",
+  "portrait": "zenira_dictant",
+  "traits": [
+   {
+    "id": "zenira_dictant_innate",
+    "name": "Повеление",
+    "text": "Команда до двух слов при зрительном контакте. Цель должна слышать и понимать. Остальные условия определяет мастер.",
+    "automaticEffect": null
+   }
+  ],
+  "conditionalNotes": [],
+  "singular": "Диктант"
+ },
+ {
+  "id": "shsheni_two",
+  "name": "Двуруки",
+  "raceId": "shsheni",
+  "physicalBase": 8,
+  "mentalBase": 6,
+  "baseValuesStatus": "working_values_require_numeric_check",
+  "portrait": "shsheni_two",
+  "traits": [
+   {
+    "id": "shsheni_two_innate",
+    "name": "Хвост-хвататель",
+    "text": "Хвост-хвататель удерживает и переносит предметы; не является полноценной боевой рукой.",
+    "automaticEffect": null
+   }
+  ],
+  "conditionalNotes": [],
+  "singular": "Двурук"
+ },
+ {
+  "id": "shsheni_four",
+  "name": "Четырёхруки",
+  "raceId": "shsheni",
+  "physicalBase": 7,
+  "mentalBase": 6,
+  "baseValuesStatus": "working_values_require_numeric_check",
+  "portrait": "shsheni_four",
+  "traits": [
+   {
+    "id": "shsheni_four_innate",
+    "name": "Четыре руки",
+    "text": "Две атаки вместо одной, каждая наносит половину обычного урона.",
+    "automaticEffect": null
+   }
+  ],
+  "conditionalNotes": [],
+  "singular": "Четырёхрук"
+ },
+ {
+  "id": "enkot_leaf",
+  "name": "Лиственники",
+  "raceId": "enkot",
+  "physicalBase": 7,
+  "mentalBase": 8,
+  "baseValuesStatus": "working_values_require_numeric_check",
+  "portrait": "enkot_leaf",
+  "traits": [
+   {
+    "id": "enkot_leaf_innate",
+    "name": "Корневая связь",
+    "text": "За 1 ОД: ощущают существ и крупные движения через связанный грунт в радиусе 100 м, в темноте и при слепоте.",
+    "automaticEffect": null
+   }
+  ],
+  "conditionalNotes": [],
+  "singular": "Лиственник"
+ },
+ {
+  "id": "enkot_poison",
+  "name": "Ядоплоды",
+  "raceId": "enkot",
+  "physicalBase": 7,
+  "mentalBase": 7,
+  "baseValuesStatus": "working_values_require_numeric_check",
+  "portrait": "enkot_poison",
+  "traits": [
+   {
+    "id": "enkot_poison_innate",
+    "name": "Ядовитые выделения",
+    "text": "Собственный яд можно применять против противников. Числовые значения не определены.",
+    "automaticEffect": null
+   }
+  ],
+  "conditionalNotes": [],
+  "singular": "Ядоплод"
+ },
+ {
+  "id": "enkot_dryer",
+  "name": "Сушильники",
+  "raceId": "enkot",
+  "physicalBase": 8,
+  "mentalBase": 8,
+  "baseValuesStatus": "working_values_require_numeric_check",
+  "portrait": "enkot_dryer",
+  "traits": [
+   {
+    "id": "enkot_dryer_innate",
+    "name": "Массовое укоренение",
+    "text": "За 2 ОД: корни удерживают до 10 существ. Сопротивление и длительность определяет мастер.",
+    "automaticEffect": null
+   }
+  ],
+  "conditionalNotes": [],
+  "singular": "Сушильник"
+ }
+]

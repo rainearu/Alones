@@ -1,0 +1,20 @@
+[
+ {
+  "id": "souler_technique",
+  "name": "Соулер",
+  "implemented": false,
+  "abilities": []
+ },
+ {
+  "id": "tantaki",
+  "name": "Тантаки",
+  "implemented": false,
+  "abilities": []
+ },
+ {
+  "id": "iritaki",
+  "name": "Иритаки",
+  "implemented": false,
+  "abilities": []
+ }
+]
